@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**donrad64/donrad64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Raw Material Risk Registry Project
 - 🌱 I’m currently learning MySQL and Advanced Python 
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: message me here
 - 😄 Pronouns: him/his
 - ⚡ Fun fact: ...
--->
+
