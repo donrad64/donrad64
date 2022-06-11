@@ -8,5 +8,5 @@
 - 💬 Ask me about anything :D
 - 📫 How to reach me: message me here
 - 😄 Pronouns: him/his
-- ⚡ Fun fact:I'm a Chelsea FC fan! Come on Blues
+- ⚡ Fun fact: I'm a Chelsea FC fan! Come on Blues
 
